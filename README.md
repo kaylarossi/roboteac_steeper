@@ -12,4 +12,4 @@ the tea is brewed.
 This project was a final project that was created by Kayla Rossi while enrolled
 in the Embedded operating systems (ECE 5725) course at Cornell University in
 completing her M.Eng degree in 2022.
-
+To see the final version of the project: https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2022_Projects/May_16/RoboTEAc%20Steeper/W_kmr262/index.html
